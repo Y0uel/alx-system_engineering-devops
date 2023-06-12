@@ -1,0 +1,2 @@
+#!/bin/bash
+grepp -i 'root' /etc/passwd
